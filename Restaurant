@@ -1,0 +1,15 @@
+  <!DOCTYPE html>
+  <html lang="fr" dir="ltr">
+    <head>
+      <meta charset="utf-8">
+      <title>La payotte du soleil</title>
+    </head>
+    <body>
+      <header>
+        <h1>Le Restaurant</h1>
+          <a href="#">La Carte</a>
+          <a href="#">Traiteur</a>
+      </header>
+
+    </body>
+  </html>
